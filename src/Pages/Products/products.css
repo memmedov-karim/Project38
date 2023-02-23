@@ -1,0 +1,15 @@
+.productss{
+    display: flex;
+}
+.products-right{
+    width: 80%;
+    border: 1px solid black;
+    height: 100vh;
+}
+
+.update-products{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+}

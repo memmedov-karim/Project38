@@ -1,0 +1,29 @@
+.leftside{
+    width: 20%;
+    border: 1px solid white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(137, 137, 225);
+}
+
+.admin-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.admin-container>.link{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 50px;
+    border: 1px solid black;
+    justify-content: center;
+    text-decoration: none;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,8 @@
+.orders{
+    display: flex;
+}
+.orders-right{
+    width: 80%;
+    border: 1px solid black;
+    height: 100vh;
+}
